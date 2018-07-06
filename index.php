@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html lang="en">
+<html lang="nb-NO">
 <head>
   <meta charset="utf-8">
   <title>Trond Klakken</title>
