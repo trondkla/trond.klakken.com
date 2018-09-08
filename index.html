@@ -2,10 +2,11 @@
 
 <html lang="nb-NO">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   <title>Trond Klakken</title>
-  <meta name="description" content="Min lille rare krok">
-  <meta name="author" content="Trond Klakken">
+  <meta name="description" content="Min lille rare krok" />
+  <meta name="author" content="Trond Klakken" />
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet" />
   <style type="text/css">
 
     html, body {
@@ -23,14 +24,16 @@
 
     #main {
         height: 100%;
-        width: 40%;
 
         padding: 3em;
         font-size: 16pt;
-    }
-    #aside {
-        background-color: black;
-        width: 60%;
+
+        display: flex;
+        justify-content: center;
+
+        font-family: 'Fira Sans', sans-serif;
+
+        position: relative;
 
         background-repeat: no-repeat;
         background-position: right;
@@ -62,50 +65,62 @@
         -webkit-image-set(url('images/background/full_size_clclac_c_scale,w_3840.jpg') 3840w);
     }
 
+    h1 {
+        font-size: 20pt;
+    }
+
     .sidenote {
         position: absolute;
         bottom: 1em;
-        right: 1em;
+        left: 1em;
         background: rgba(255, 255, 255, 0.2);
         border-radius: 0.2em;
         padding: 0.2em 0.5em;
     }
 
-    #body {
-        width: 100%;
-        height: 100%;
-
-        display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
-
-        justify-content: flex-start;
-        align-items: stretch;
-        align-content: stretch;
-    }
-
     .linkedin img {
-        width: 10em;
+        width: 3em;
     }
 
     .profile-picture {
         width: 10em;
+        border-radius: 10em;
     }
+
+    .picture {
+        padding: 2em;
+        padding-bottom: 0em;
+    }
+
+    .box {
+        background: rgba(255, 255, 255, 1.0);
+        display: inline-block;
+        text-align: center;
+        margin: auto;
+    }
+
+    .text {
+        padding: 2em;
+        padding-top: 1em;
+    }
+
   </style>
 </head>
 <body id="body">
 
-    <aside id="aside">
-        <p class="sidenote">Responsive bilder generert med <a href="http://www.responsivebreakpoints.com/">responsivebreakpoints.com</a></p>
-    </aside>
-
     <main id="main">
-    	<h1>Trond Klakken</h1>
-    	<p>Utvikler</p>
-    	<img class="profile-picture" src="https://0.gravatar.com/avatar/ea378546ddb081195d386582453e6fed?s=400" />
+        <section class="box">
+            <section class="picture">
+                <img class="profile-picture" src="https://0.gravatar.com/avatar/ea378546ddb081195d386582453e6fed?s=400" />
+            </section>
+            <section class="text">
 
+                 <h1>Trond Klakken</h1>
+            	<p><a href="https://github.com/trondkla">Utvikler</a>, <a href="https://sincoorchestra.com">tubaist</a> og <a href="https://boardgamegeek.com/collection/user/trondkla?own=1&subtype=boardgame&ff=1" title="Mine brettspill">brettspillfanatiker</a></p>
 
-    	<a class="linkedin" href="https://no.linkedin.com/in/trondklakken" title="LinkedIn profil for Trond Klakken"><img src="linkedin-logo.png" alt="LinkedIn" /></a>
+            	<a class="linkedin" href="https://no.linkedin.com/in/trondklakken" title="LinkedIn profil for Trond Klakken"><img src="linkedin-logo.png" alt="LinkedIn" /></a>
+            </section>
+        </section>
 	</main>
 
 </body>
