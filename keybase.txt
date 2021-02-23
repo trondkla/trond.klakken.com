@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/trondkla
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://trondklakken.com
+  * I am trondkla (https://keybase.io/trondkla) on keybase.
+  * I have a public key with fingerprint EEB9 1EDC E72D 72B0 4BF9  5113 5F37 92C4 5FFE E4B5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010178070decd62f2904cad40b2c1602022429f4e9c2457f3bb75f0cd29c35dcc7e20a",
+      "fingerprint": "eeb91edce72d72b04bf951135f3792c45ffee4b5",
+      "host": "keybase.io",
+      "key_id": "5f3792c45ffee4b5",
+      "kid": "010178070decd62f2904cad40b2c1602022429f4e9c2457f3bb75f0cd29c35dcc7e20a",
+      "uid": "c92e82425aefb29bbc04e62be7c14600",
+      "username": "trondkla"
+    },
+    "merkle_root": {
+      "ctime": 1614069714,
+      "hash_meta": "302350063a49fd1244db163aaa901e204f8078e5d4d17bb7d2049e9cf741f955",
+      "seqno": 19197204
+    },
+    "revoke": {
+      "sig_ids": [
+        "22c2a0f42ce5db02236b6fdc711afb398a2e416c7cc6def3f63fe912985f43a50f"
+      ]
+    },
+    "service": {
+      "hostname": "trondklakken.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1614069729,
+  "expire_in": 157680000,
+  "prev": "5d4267e9a83daa88c61d9f1de9d80436d6517608c02415ba92ed4367dca08bb5",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK6AnicrVNtaBxFGL5rTYwB2/M0BmywstoiEsPM7OzMTqDiVRSsoFRp/9hwmc+7
+de92r7ubxBAjYn+UIlJiEQvqD62iCH6AlEK0JkQr2lhBbVVarDZBsU3FD1orNK3O
+BgUp/nT+DPPO8z7v8z7vzAdXLi90FveG8vzE/NtucXZmbKgwiKdOjDkiVqNO/5gT
+6qVNN5ROs2oYKKffARBA6gMKlJaKIIMYwJIrDASSkAAEEMKIGayZRNijxhWCegZI
+hZh0PSUl1Qhwp9cxQVTTSSsJoszSai0Y1EpqihRFAmBhmAeh6xmXMiSxZ4zWWHg2
+sR6neYYVJ3iq+4LYxuyhuiTvP/D/s+6hJTrJkPZthse1EYgJIQHWBAlNJcQEgByY
+6iTiTW3RWRJHKmxwZ7zXaeokbOhqEsdZbq7MghwCCcSAMAqxbZCn9WpTZ9xmugC5
+HgDE5ZgZBRHGSkB74pwBaBVhY3vytaewgtRKVjbEbA+GYmgdzPtP9dYothUYZNTe
+WgmJHo5DnVdPg5r1LXX6H3QQkogDg5G0bMLa4RJBjJIUQm6Ey3yONIZEUimJ0sY1
+xDWaQcR8z2CXe8A4A+N5tWQ4kEvk+aAuMSAMddQn46aV1UriLJZxw97Ws6yV9ufm
+ZKOtHD6iRfVvoqoIImWfis0Y1kkaxJFtxSIv8Q2xXkc/3AoSXQ1yhEeJD+zK6+jh
+/GEojAjVjPuu4tz3JYGKGag0Uz7ALlHEg5QAXwKEoSe4na+yYaokB74Q/zLStSPK
+eM1yWvcing0l2hmfmd5yWaHYWWhvW5b/oULnFaV/ftbtbR2Ftzb3kOdOR5WecHMN
+rz67KSqverrjwPQ9A7sWpq7t23396MV4+083rqxNzG/trqy+6tjivvST4oXyQ4de
+6vlt/W3HDla2nRd+9fdVp1ec2ovOzFQmvxjp7X7m4oVnFxZ+WLap7aNdR48+kBxe
+s76+rvhZqTz3wsDsO0+VWuVTXXzq/Yn28sbvt/es3f/ke790nNxzaN1jXbtLtx5c
+PvX8N2fKOw+U+OANd0xO3rV49eDQV2M7nzgy/6I7veGm73Y07rzl5MrRufbw1Tdn
+yWsrur58uX64+fn+19+4/JqfX9nw4+OPbmt1v/v1uT833lcZ2XN27sMZdPz+X3d8
+PH5u4uZPv423HF8bX/dH3yMn+L13Lx75C7Nah9I=
+=D/Dz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/trondkla
+
+==================================================================
